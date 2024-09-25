@@ -12,7 +12,6 @@ def cal(n):
             n = (n*3)+1
             count += 1
     return count
-
 def main():
     '''d'''
     lst_num = []
