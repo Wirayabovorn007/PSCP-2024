@@ -6,7 +6,7 @@ def main():
     total = 0
     a = float(input()) #a บาท
     b = float(input()) #จำนวนลูกบาศก์
-    c = float(input()) #ที่คิดส่วนที่เกินจาก b ลูกบาศก์เมตร 
+    c = float(input()) #ที่คิดส่วนที่เกินจาก b ลูกบาศก์เมตร
     d = float(input()) #ถ้าเดือนใดใช้น้ำไม่เกินค่า d บาท
     for _ in range(month):
         i = float(input())
