@@ -1,1 +1,1 @@
-Some task on PSCP subject 2024
+Some tasks on PSCP subject 2024
